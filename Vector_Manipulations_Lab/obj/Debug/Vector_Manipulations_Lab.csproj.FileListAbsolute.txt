@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Illiash_ASD_3course_Labs\Vector_Manipulations_Lab\Vector_Manipulations_Lab\bin\Debug\Vector_Manipulations_Lab.exe.config
+C:\Users\user\source\repos\Illiash_ASD_3course_Labs\Vector_Manipulations_Lab\Vector_Manipulations_Lab\bin\Debug\Vector_Manipulations_Lab.exe
+C:\Users\user\source\repos\Illiash_ASD_3course_Labs\Vector_Manipulations_Lab\Vector_Manipulations_Lab\bin\Debug\Vector_Manipulations_Lab.pdb
+C:\Users\user\source\repos\Illiash_ASD_3course_Labs\Vector_Manipulations_Lab\Vector_Manipulations_Lab\obj\Debug\Vector_Manipulations_Lab.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Illiash_ASD_3course_Labs\Vector_Manipulations_Lab\Vector_Manipulations_Lab\obj\Debug\Vector_Manipulations_Lab.exe
+C:\Users\user\source\repos\Illiash_ASD_3course_Labs\Vector_Manipulations_Lab\Vector_Manipulations_Lab\obj\Debug\Vector_Manipulations_Lab.pdb
